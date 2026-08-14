@@ -93,6 +93,7 @@ dotnet run
 Executar o Frontend
 
 Abra o arquivo index.html diretamente no seu navegador OU utilize a extensão Live Server do VS Code para rodar a aplicação web.
+
 📁 Estrutura do Projeto
 ControleEstoque
  ├── Controllers/          # Endpoints da Web API (Produtos, Categorias, Fornecedores)
