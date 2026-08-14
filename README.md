@@ -34,7 +34,7 @@ Sistema de gerenciamento de estoque para controle de **Produtos**, **Categorias*
 
 O banco de dados foi modelado diretamente no **SQL Server**. Para a integração com o Entity Framework Core no C#, foi utilizada a abordagem **Database First** através de **Engenharia Reversa (Scaffold)**, gerando automaticamente os modelos (`Models`) e o contexto (`DbContext`):
 
-```bash
+
 ✨ Funcionalidades
 Dashboard / Início:
 
